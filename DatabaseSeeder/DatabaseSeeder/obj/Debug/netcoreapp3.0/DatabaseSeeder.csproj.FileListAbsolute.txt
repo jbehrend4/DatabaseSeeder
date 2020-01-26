@@ -1,0 +1,11 @@
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\bin\Debug\netcoreapp3.0\DatabaseSeeder.exe
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\bin\Debug\netcoreapp3.0\DatabaseSeeder.deps.json
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\bin\Debug\netcoreapp3.0\DatabaseSeeder.runtimeconfig.json
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\bin\Debug\netcoreapp3.0\DatabaseSeeder.runtimeconfig.dev.json
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\bin\Debug\netcoreapp3.0\DatabaseSeeder.dll
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\bin\Debug\netcoreapp3.0\DatabaseSeeder.pdb
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\obj\Debug\netcoreapp3.0\DatabaseSeeder.csprojAssemblyReference.cache
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\obj\Debug\netcoreapp3.0\DatabaseSeeder.AssemblyInfoInputs.cache
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\obj\Debug\netcoreapp3.0\DatabaseSeeder.AssemblyInfo.cs
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\obj\Debug\netcoreapp3.0\DatabaseSeeder.dll
+C:\Users\Jared\source\repos\DatabaseSeeder\DatabaseSeeder\obj\Debug\netcoreapp3.0\DatabaseSeeder.pdb
